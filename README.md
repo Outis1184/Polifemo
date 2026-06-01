@@ -1,4 +1,10 @@
 # Polifemo
+<p align="center">
+  <img src="LogoPolifemo.png" alt="Logo Proyecto" width="200">
+</p>
+
+# Análisis Reológico Sin Contacto
+
 Software for processing linear rheological data
 
 Software developed for the analysis of harmonics in surface tension and area data.
