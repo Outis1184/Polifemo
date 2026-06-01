@@ -19,5 +19,3 @@ For your peace of mind, you can verify its integrity here:
 ## 🚀 Installation
 No installation required. Download the `.exe` from the [Releases](../../releases) section.
 
-
-Translated with DeepL.com (free version)
